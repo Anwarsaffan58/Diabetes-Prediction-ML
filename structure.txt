@@ -1,0 +1,11 @@
+diabetes-predictor/
+│
+├── data/                   # Generated automatically
+│   └── diabetes_data.csv
+├── outputs/                # Generated automatically
+│   ├── confusion_matrix.png
+│   ├── feature_importance.png
+│   └── prediction_report.csv
+├── main.py                 # The complete logic script
+├── requirements.txt        # Dependencies
+└── README.md               # Professional Documentation
